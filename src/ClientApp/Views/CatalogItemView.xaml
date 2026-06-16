@@ -96,7 +96,7 @@
                 Command="{Binding AddCatalogItemCommand, Mode=OneTime}"
                 CornerRadius="8"
                 ImageSource="cart.png"
-                Text="Add to shopping bag"
+                Text="Add to cart"
                 TextColor="Black" />
         </Grid>
         </ScrollView>
